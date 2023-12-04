@@ -22,7 +22,13 @@ As for non-required functionality:
  
 ## Video Walkthrough
 
-
+<div>
+    <a href="https://www.loom.com/share/e23ec6c5fb9f479faff0ea5606a5c41f">
+    </a>
+    <a href="https://www.loom.com/share/e23ec6c5fb9f479faff0ea5606a5c41f">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/e23ec6c5fb9f479faff0ea5606a5c41f-with-play.gif">
+    </a>
+  </div>
 
 ## App Brainstorming (Step 4)
 
