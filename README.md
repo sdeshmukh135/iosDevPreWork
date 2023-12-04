@@ -23,11 +23,10 @@ As for non-required functionality:
 ## Video Walkthrough
 
 <div>
-    <a href="https://www.loom.com/share/e23ec6c5fb9f479faff0ea5606a5c41f">
-      <p>Loom | Free Screen & Video Recording Software | Loom - 3 December 2023 - Watch Video</p>
+    <a href="https://www.loom.com/share/6597faddccb24761a4d8dd6162c1d1d3"
     </a>
-    <a href="https://www.loom.com/share/e23ec6c5fb9f479faff0ea5606a5c41f">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/e23ec6c5fb9f479faff0ea5606a5c41f-with-play.gif">
+    <a href="https://www.loom.com/share/6597faddccb24761a4d8dd6162c1d1d3">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/6597faddccb24761a4d8dd6162c1d1d3-1701661403189-with-play.gif">
     </a>
   </div>
 
