@@ -4,7 +4,7 @@ Submitted by: **Sara Deshmukh**
 
 **TestApp** is an app that changes the background color and the text color of the app, whilst displaying the name, university, and the intended career of the creator.
 
-Time spent: **3** hours spent in total
+Time spent: **5** hours spent in total
 
 ## Required Features
 
